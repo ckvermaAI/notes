@@ -1,5 +1,5 @@
 # Notes
-Notes summarized with the help of [ChatGPT](https://chatgpt.com/) and [Grok](https://chatgpt.com/). 
+Notes summarized with the help of [Grok](https://chatgpt.com/). 
 
 Some mathematical expressions will not be parsed on GitHub. For a better reading experience, please **use Visual Studio Code** (and use the *open preview* option to read these markdown format files). 
 
