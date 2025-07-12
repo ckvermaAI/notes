@@ -15,4 +15,7 @@ Course lectures and slides: https://ut.philkr.net/deeplearning/ at UT Austin, Te
 Chapters from [Mathematics for Machine Learning](https://mml-book.com) by Deisenroth, A. Aldo Faisal, and Cheng Soon Ong are summarized here.
 
 ## 4) Parallel Computing
-Lecture notes for the `Parallel Computing` course offered in the Fall 2023 cohort at Stanford. Lectures: [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp), Course Website: https://gfxcourses.stanford.edu/cs149/fall23/.
+Lecture notes for the `Parallel Computing` course offered in the Fall 2023 cohort at Stanford, taught by Professors Kayvon Fatahalian and Kunle Olukotun. Lectures: [YouTube](https://www.youtube.com/playlist?list=PLoROMvodv4rMp7MTFr4hQsDEcX7Bx6Odp), Course Website: https://gfxcourses.stanford.edu/cs149/fall23/.
+
+## 5) Performance Engineering for Software Systems
+Lecture notes for the `Parallel Computing` course offered in the Fall 2018 cohort at MIT, taught by Professors Charles Leiserson and Julian Shun. Lectures: [YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP63VIBQVWguXxZZi0566y7Wf), Course Website: https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/.
