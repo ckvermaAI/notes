@@ -6,3 +6,5 @@
 - Mastering QLoRa (https://manalelaidouni.github.io/4Bit-Quantization-Models-QLoRa.html)
 - Llama from scratch (or how to implement a paper without crying) (https://blog.briankitano.com/llama-from-scratch/)
 - Fast LLM Inference From Scratch (https://andrewkchan.dev/posts/yalm.html)
+- Inside vLLM (https://www.aleksagordic.com/blog/vllm)
+- Flash attention (https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
