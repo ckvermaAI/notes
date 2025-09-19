@@ -8,3 +8,5 @@
 - Fast LLM Inference From Scratch (https://andrewkchan.dev/posts/yalm.html)
 - Inside vLLM (https://www.aleksagordic.com/blog/vllm)
 - Flash attention (https://gordicaleksa.medium.com/eli5-flash-attention-5c44017022ad)
+- A Survey of Reinforcement Learning for Large Reasoning Models (https://arxiv.org/pdf/2509.08827)
+- Stanford CS336 Language Modeling from Scratch (https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
