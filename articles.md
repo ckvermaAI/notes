@@ -11,4 +11,9 @@
 - Llama from scratch (or how to implement a paper without crying) (https://blog.briankitano.com/llama-from-scratch/)
 - Fast LLM Inference From Scratch (https://andrewkchan.dev/posts/yalm.html)
 - A Survey of Reinforcement Learning for Large Reasoning Models (https://arxiv.org/pdf/2509.08827)
+- Exercise in ML (https://arxiv.org/pdf/2206.13446)
+
+
+## Courses
 - Stanford CS336 Language Modeling from Scratch (https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+- Transformers and LLMs (https://cme295.stanford.edu/syllabus/)
