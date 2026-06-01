@@ -12,6 +12,7 @@
 - Fast LLM Inference From Scratch (https://andrewkchan.dev/posts/yalm.html)
 - A Survey of Reinforcement Learning for Large Reasoning Models (https://arxiv.org/pdf/2509.08827)
 - Exercise in ML (https://arxiv.org/pdf/2206.13446)
+- Inside the Transformer (https://www.aleksagordic.com/blog/transformer) 
 
 
 ## Courses
