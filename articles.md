@@ -2,7 +2,7 @@
 
 ## Parallelism
 - The Ultra-Scale Playbook: Training LLMs on GPU Clusters (https://huggingface.co/spaces/nanotron/ultrascale-playbook)
-- Scaling on TPUs https://jax-ml.github.io/scaling-book/
+- Scaling on TPUs (https://jax-ml.github.io/scaling-book/)
 
 ## Deep Dive
 - Inside vLLM (https://www.aleksagordic.com/blog/vllm)
@@ -24,6 +24,8 @@
 
 ## PyTorch
 - Pytorch internals (https://blog.ezyang.com/2019/05/pytorch-internals/)
+- PyTorch dispatcher (https://blog.ezyang.com/2020/09/lets-talk-about-the-pytorch-dispatcher/)
+- Control flow in PT2 (https://blog.ezyang.com/2025/09/so-you-want-to-control-flow-in-pt2/) 
 
 # Courses
 - Stanford CS336 Language Modeling from Scratch (https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
